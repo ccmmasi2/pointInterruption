@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repository\\pointInterruption\\PointInterruptionConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC62D7E-DAAE-4E35-84A8-6D9EAF77875F}|..\\BreakpointSetter\\BreakpointSetter.csproj|d:\\repository\\pointinterruption\\breakpointsetter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repository\\pointInterruption\\BreakpointSetter\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BreakpointSetter\\Program.cs",
+              "ToolTip": "D:\\Repository\\pointInterruption\\BreakpointSetter\\Program.cs",
+              "RelativeToolTip": "..\\BreakpointSetter\\Program.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAwwAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T22:11:46.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
